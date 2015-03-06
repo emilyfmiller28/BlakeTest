@@ -1,14 +1,13 @@
 body {
-	font-size: 100%;
+	font-size: 100%
 }
 body{
-	background-color:#B7DBB9;
+	background-color:#A6D5D1;
 }
 nav {
 	width: 20%;
 	float: left;
 	padding: 0 .25em;
-	background-color:#D17876;
 }
 
 nav ul {
@@ -20,7 +19,6 @@ nav ul {
 p {
 	margin: 0;
 	margin-bottom: 1em;
-	color: #2C6730;
 }
 
 h2 {
@@ -43,8 +41,8 @@ h2 {
 	margin: 0 1em;
 }
 h1{
-	color:#0D4210;
+	color:#012E2B;
 }
 h2{
-	color:#5DA462;
+	color:#37807B;
 }
